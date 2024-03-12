@@ -1,7 +1,5 @@
 # SemanticSegmentation
 
-# PersonDetection-RCNN-YOLO_COCODataset
-
 This repository contains semantic segmentation implementation on an Image Dataset generated from CARLA
 
 ## Pre-requisites
